@@ -71,7 +71,7 @@ body{
 .btn_3{
     color: var(--clr-dark-blue);
 }
-@media only screen and (max-width:375px) {
+@media only screen and (max-width:600px) {
     .main-content{
         flex-direction: column;
         width: 60%;
