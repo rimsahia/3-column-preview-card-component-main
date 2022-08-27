@@ -80,4 +80,12 @@ body{
     .bloc{
         width: 50%;
     }
+    .bloc_1{
+        border-top-right-radius: 5px;
+        border-bottom-left-radius: 0px;
+    }
+    .bloc_3{
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 5px;
+    }
 }
